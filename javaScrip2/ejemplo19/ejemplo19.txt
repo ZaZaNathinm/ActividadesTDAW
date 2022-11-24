@@ -1,1 +1,15 @@
-aaAaA
+Archivos CSS
+Se estan declarando elementos repetidos dentro de las hojas de estilos.
+Se estan ocupan las medidas en pixeles en vez de las relativas
+Se ocupan varios elementos que ya no son utilizados en html5
+No hay una declaracion de fuentes alternativas.
+
+Archivos JS
+Se hace uso de jquery
+Utiliza la delcarion de variables con var
+
+Archivos HTML 
+La declaracion de los scrips lo hace hasta el fondo de la pagina HTML
+Uso excesido de contenedores DIV por el uso de bootstrap
+Uso execesivo de las etiquestas h para dar formato al texto al igual que la etiqueta span
+
